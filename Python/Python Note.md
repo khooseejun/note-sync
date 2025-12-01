@@ -1,8 +1,4 @@
-
-
-# AMCS1034 Software Development Fundamentals - Course Notes
-
-## Chapter 1: Software Development Fundamentals
+# Chapter 1: Software Development Fundamentals
 
 ### Computing Disciplines
 - The Association for Computing Machinery (ACM) defines five major computing disciplines:

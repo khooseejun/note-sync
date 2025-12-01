@@ -1,6 +1,3 @@
-
----
-
 Speaking Script: Direct & Indirect Speech
 
 (Part 1: Definition)
