@@ -1,0 +1,65 @@
+
+==========
+2. HTML
+==========
+-Differences between: chap2(A) / pg 41-46
+Ordered list
+Unordered list
+Description list
+
+-Differences between: chap2(A) / pg 53-55
+Absolute path
+Relative path
+
+-Identify absolute and relative path to a page based on a given file and folder structure (diagram). chap2(A) / pg 53-55
+
+-Suggest appropriate input controls for form fields based on a given scenario: chap2(C) / pg 13-45
+Textbox
+Textarea
+Checkbox
+Radio button list
+Single-selection list
+Checkbox list
+Multi-selection list
+Password field
+Slider
+Spinner
+Date picker
+Time picker
+Color picker
+File picker
+** HTML codes NOT required
+
+(右边部分) chap2(A) / pg 41-46 #code
+-Write HTML codes to construct:
+Ordered list → ol and li elements
+Unordered list → ul and li elements
+Description list → dl, dt and dd elements
+
+-Write HTML codes to construct table: chap2(B) pg 4-14 #code
+Elements → table, tr, td
+Attributes → rowspan and colspan
+** Other table elements and attributes NOT required
+
+========
+CSS
+========
+Differences between: chap3(A) pg2-3
+-Inline CSS
+-Embedded CSS
+-External CSS
+
+**CSS codes NOT required
+
+Differences between:  chap3(A) pg17-26
+-Color names
+-RGB colour values
+-HEX colour values
+Their advantages and disadvantages
+
+**CSS codes NOT required
+
+
+
+
+
