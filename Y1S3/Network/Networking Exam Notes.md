@@ -272,3 +272,11 @@ These terms describe network performance at the physical and data link layers.
 | Bandwidth | Theoretical maximum capacity |
 | Throughput | Actual measured transfer rate |
 | Goodput | Usable data after overhead |
+OSI 7 layer
+Mac address
+
+
+
+
+
+no

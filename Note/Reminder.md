@@ -1,6 +1,3 @@
-productname|details|price
-Exp-ipone..|12+256|3999
-
 Ethics
 Chapter 1, 6, 7, 8
 
@@ -8,12 +5,6 @@ Chapter 2
 - OSI
 - protocols layer 7,4,3,2
 
-Java
-- more theory
-- chapter 1 to 4b
-- chapter 4 part 3
-- chapter
-- exaculation concept when
 Ethics
 - Telemedicine and Telehealth
 System Analysis and Design
@@ -55,5 +46,3 @@ Network
 #### Week 13
 * SAD Assignment
 * OOP Assignment
-#### IMPORTANT NOTES
-1) SAD MIDTERM - Context Diagram
